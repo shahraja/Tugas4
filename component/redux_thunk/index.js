@@ -24,7 +24,7 @@ export default ({ navigation }) => {
         <Counter />
         <Text style={styles.copyright_1}>
           {" "}
-          Irsan Romardi Harahap - 120140006
+          Shah Raja Abdullah Al Turtusi - 120140064
         </Text>
       </View>
     </Provider>
